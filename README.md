@@ -1,5 +1,5 @@
 # Inna's portfolio
 
-## [Project 1: Test data creation automation for product elasticity prediction model.](https://github.com/Innesse/Test-data-creation-automation)
+## [Project 1: Test Data Generation for Machine Learning.](https://github.com/Innesse/Test-data-creation-automation)
 ### Descripton:
-This project is part of developing a reliable model to predict product price elasticity. To validate the accuracy and robustness of our predictive model, it is essential to have a high-quality dataset where the elasticity for each product is known.
+The Python function, that generates synthetic test data for machine learning tasks in pricing and demand prediction. It is useful for simulating scenarios where you want to test your machine learning models against varying product prices, quantities, and elasticities.
